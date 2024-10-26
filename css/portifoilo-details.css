@@ -1,0 +1,20 @@
+.portifolio-landing {
+    background: linear-gradient(#0077ff9c, #0077ff9c), url("../images/overlay-bg\ \(1\).jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    color: white;
+    height: 350px;
+}
+.portifolio-landing h1{
+    font-size: 60px;
+}
+.portifolio-landing span{
+    color: #cde1f8;
+}
+/* ------------------------------------ */
+.portifolio-slider .carousel-indicators button{
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+}
